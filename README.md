@@ -50,3 +50,4 @@ During my time in a restaurant called La Petite Bretagne I was working as an Ass
 * Board games - Chess or Cluedo
 * Sports - Football, Baseball and Basketball
 * Strong passion for Video-Games - Guild wars 2, Final Fantasy and Pokemon
+* Cooking - Portuguese and South American recipes
