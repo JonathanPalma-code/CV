@@ -1,22 +1,22 @@
 # Jonathan Palma
- 
-I am a Software Developer graduated at Makers Academy. I am now looking to move forward, into a new environment and secure a permanent position in a tech team.
+
+I am a Software Developer graduated at Makers Academy. However, before, I had already a background of programming on C# due to my passion for video-games.
+
+Back in Portugal, I faced myself for the first time with a programming language, where I discovered a passion that it was hided inside of me. A passion to create and to innovate, coming with it, to improve my originality level. Not just for Video-Games, but for Applications, that was mostly applied from the "server-side".
+
+I am now looking to move forward, into a new environment and secure a permanent position in a tech team.
  
 ## Projects:
  
-#### Paladin's Path
-* A video-game developed in [Unreal Engine 4](https://www.unrealengine.com/en-US/industry/games)
-* [GitHub](https://github.com/BenSheridanEdwards/Makers_Final_Project_Paladins_Path) 
- 
-#### Acebook
-* A Facebook Clone deployed at: http://acebook-irrelevant-pests.herokuapp.com
-* [Github](https://github.com/ffgi-es/acebook_irrelevant_pests)
- 
+| Paladin's Path |    Acebook    | 
+| --------------- | --------------- |
+|A video-game developed in: [Unreal Engine 4](https://www.unrealengine.com/en-US/industry/games) |A Facebook Clone deployed at: [Acebook](http://acebook-irrelevant-pests.herokuapp.com) |
+|[GitHub](https://github.com/BenSheridanEdwards/Makers_Final_Project_Paladins_Path) |[GitHub](https://github.com/ffgi-es/acebook_irrelevant_pests) |
  
 ## Education:
  
 #### Maker's Academy (October 2019 - February 2020) 
-* 12-week intensive software engineering bootcamp course
+* A 12-weeks intensive Software Engineering bootcamp course
 * Status: Complete
  
 #### EPA - Professional School of Alte, Portugal (September 2007 - Jully 2009)
@@ -25,7 +25,7 @@ I am a Software Developer graduated at Makers Academy. I am now looking to move 
  
 ## Technicall Skills:
  
-* Ruby (Rails & Sinatra), JavaScript, HTML, CSS, Unreal Engine 4 & C# (the basics)
+* Ruby (Rails & Sinatra), JavaScript, HTML, CSS, Unreal Engine 4 & C#
 * RSpec, Capybara, Jasmine
 * OOP, TDD, MVC, DDD
 * Agile/XP
