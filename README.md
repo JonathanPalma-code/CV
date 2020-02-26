@@ -39,7 +39,7 @@ As Software development there is always something new to discover while working 
  
 * Organised
  
-Organisation is the key to keep your life easy. At Bar douro, we had a Cellar Wine which contained about 100 types of different types, regions and grapes. I was responsible for the Wine Stock Management. To keep all organised and clean so the employees could grab a wine from the cellar when sold. 
+Organisation is the key to keep your life easy. At Bar douro, we had a Cellar Wine which contained about 100 of different types, regions and grapes. I was responsible for the Wine Stock Management. To keep all organised and clean so the employees could grab a wine from the cellar when sold. 
 We arranged it by region. At the top you could find the ones that belong to the north, going down the one by the center and, finally at the bottom, the ones from the south. All divided by columns of red, white, rose and port wines.
  
 * Teamwork
@@ -48,7 +48,7 @@ During my time in a restaurant called La Petite Bretagne I was working as an Ass
  
 ## Hobbies
 
-* Board games - Chess or Cluedo
+* Board games - Chess & Cluedo
 * Sports - Football, Baseball and Basketball
 * Strong passion for Video-Games - Guild wars 2, Final Fantasy and Pokemon
 * Cooking - Portuguese and South American recipes
