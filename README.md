@@ -35,11 +35,11 @@ I am now looking to move forward, into a new environment and secure a permanent 
 * Ambition
  
 During my time at Bar Douro, a Portuguese Restaurant, working as a Restaurant Supervisor. I had the opportunity to accept tasks offered by my Restaurant Manager that weren't part of my duties. Even so, my goal was to learn new things.
-As Software development there is always something new to discover while working on a project. Which makes life with more sense and fun to me, having the opportunity to learn and to keep my skills up to date.
+As a Software developer there is always something new to discover while working on a project. Which makes life with more sense and fun to me, having the opportunity to learn and to keep my skills up to date.
  
 * Organisation
  
-Organisation is the key to keep your life easy. At Bar douro, we had a Cellar Wine which contained about 100 of different types, regions and grapes. I was responsible for the Wine Stock Management. To keep all organised and clean so the employees could grab a wine from the cellar when sold. 
+Organisation is the key to keep your life easy. At Bar douro, we had a Cellar Wine which contained about 100 different types, regions and grapes. I was responsible for the Wine Stock Management. To keep everything organised and clean so the employees could grab a wine from the cellar, when sold. 
 We arranged it by region. At the top you could find the ones that belong to the north, going down the one by the center and, finally at the bottom, the ones from the south. All divided by columns of red, white, rose and port wines.
  
 * Teamwork
