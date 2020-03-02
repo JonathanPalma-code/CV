@@ -1,8 +1,12 @@
 # Jonathan Palma
+## Intro
 
-I am a Software Developer graduated at Makers Academy. However, before, I had already a background of programming on C# due to my passion for video-games.
+My name is Jonathan, I’m Portuguese and I’m a software developer graduated at Makers Academy.
 
-Back in Portugal, I faced myself for the first time with a programming language, where I discovered a passion that it was hided inside of me. A passion to create and to innovate, coming with it, to improve my originality level. Not just for Video-Games, but for Applications, that was mostly applied from the "server-side".
+From a very young age, I have been passionate about video games, and I grew tremendously curious about how to build them. At the time, when I asked myself the teenager’s most important question, what do I want to become? The answer came to me as obvious - a software developer! For the following reasons:
+* I absolutely love technology; 
+* I have a creative mind;
+* I love reinventing the world through innovation, with a strong will for improvement, not only for myself but for everything I touch.
 
 I am now looking to move forward, into a new environment and secure a permanent position in a tech team.
  
