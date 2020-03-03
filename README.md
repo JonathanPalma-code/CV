@@ -38,17 +38,15 @@ I am now looking to move forward, into a new environment and secure a permanent 
  
 * Ambition
  
-During my time at Bar Douro, a Portuguese Restaurant, working as a Restaurant Supervisor. I had the opportunity to accept tasks offered by my Restaurant Manager that weren't part of my duties. Even so, my goal was to learn new things.
-As a Software developer there is always something new to discover while working on a project. Which makes life with more sense and fun to me, having the opportunity to learn and to keep my skills up to date.
+During my time as a Restaurant Supervisor at Bar Douro, I had the opportunity to show ambition and challenge myself by taking on tasks that were not part of my duties. I always strive to learn new things. As a Software developer there is always something new to discover while working on a project, which really appeals to me as it gives me the chance to learn and to keep my skills up to date.
  
 * Organisation
  
-Organisation is the key to keep your life easy. At Bar douro, we had a Cellar Wine which contained about 100 different types, regions and grapes. I was responsible for the Wine Stock Management. To keep everything organised and clean so the employees could grab a wine from the cellar, when sold. 
-We arranged it by region. At the top you could find the ones that belong to the north, going down the one by the center and, finally at the bottom, the ones from the south. All divided by columns of red, white, rose and port wines.
+At Bar Douro, organisation was key as we kept stock of over 100 different types of wines. Being responsible for the Stock Management, I helped conceive an organisation plan that enabled employees to access all products easily, thus facilitating sales and improving the general system in place. This avoided delays in finding the wine that the client requested, misplacing deliveries or losing items.
  
 * Teamwork
  
-During my time in a restaurant called La Petite Bretagne I was working as an Assistant Manager. I realised how everyone is different from everyone. And dealing with people can be a difficult task. I had to face myself with how to give feedback to the employees so they could improve their work and achieve the same goal as the company. The solution that I found was to be truthy, direct, respectful, to feel empathy and to make them feel comfortable, safe and secure in the environment and with the staff.
+Coming from an international background, I had quickly realised how important it is to take cultural differences into account when dealing with colleagues or customers. As a Restaurant Assistant Manager, It was my responsibility to give feedback to the employees so they could improve their work and strive towards the same goals as the company. I always made sure to bring empathy in these conversations so that it was based on trust, honesty and respect. This was crucial to keep a good work environment for everyone.
  
 ## Hobbies
 
