@@ -46,7 +46,7 @@ At Bar Douro, organisation was key as we kept stock of over 100 different types 
  
 * Teamwork
  
-Coming from an international background, I had quickly realised how important it is to take cultural differences into account when dealing with colleagues or customers. As a Restaurant Assistant Manager, It was my responsibility to give feedback to the employees so they could improve their work and strive towards the same goals as the company. I always made sure to bring empathy in these conversations so that it was based on trust, honesty and respect. This was crucial to keep a good work environment for everyone.
+Coming from an international background, I had quickly realised how important it is to take cultural differences into account when dealing with colleagues or customers. As a Restaurant Assistant Manager, in La Petite Bretagne, it was my responsibility to give feedback to the employees so they could improve their work and strive towards the same goals as the company. I always made sure to bring empathy in these conversations so that it was based on trust, honesty and respect. This was crucial to keep a good work environment for everyone.
  
 ## Hobbies
 
