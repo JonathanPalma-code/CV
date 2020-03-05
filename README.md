@@ -14,6 +14,7 @@ I am now looking to move forward, into a new environment and secure a permanent 
  
 | Paladin's Path |    Acebook    | 
 | --------------- | --------------- |
+| ![ezgif com-video-to-gif](https://user-images.githubusercontent.com/55409351/76026579-f6121e80-5f26-11ea-9012-c5879f7efe57.gif) | ![ezgif com-gif-maker (2)](https://user-images.githubusercontent.com/55409351/76026271-56ed2700-5f26-11ea-95ba-5255bc11a821.gif) |
 |A video-game developed in: [Unreal Engine 4](https://www.unrealengine.com/en-US/industry/games) |A Facebook Clone deployed at: [Acebook](http://acebook-irrelevant-pests.herokuapp.com) |
 |[GitHub](https://github.com/BenSheridanEdwards/Makers_Final_Project_Paladins_Path) |[GitHub](https://github.com/ffgi-es/acebook_irrelevant_pests) |
  
