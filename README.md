@@ -39,15 +39,17 @@ I am now looking to move forward, into a new environment and secure a permanent 
  
 * Ambition
  
-During my time as a Restaurant Supervisor at Bar Douro, I had the opportunity to show ambition and challenge myself by taking on tasks that were not part of my duties. I always strive to learn new things. As a Software developer there is always something new to discover while working on a project, which really appeals to me as it gives me the chance to learn and to keep my skills up to date.
+When we were producing a video-game as our final project, at Makers Academy, I personally had this ambition to know the maximum that I could to deliver a product with an excellent user experience. 
+To be part of a tech team would be a great opportunity for me to do what I enjoy: To create and to innovate applications using various programming languages. To support and to maintain existing applications would give me the chance to learn different techniques/tools on a specific line of code, method or class. During my time as a Restaurant Supervisor at Bar Douro, I had the opportunity to show ambition and challenge myself by taking on tasks that were not part of my duties. I always strive to learn new things. As a Software developer there is always something new to discover while working on a project, which really appeals to me as it gives me the chance to learn and to keep my skills up to date. 
  
 * Organisation
  
-At Bar Douro, organisation was key as we kept stock of over 100 different types of wines. Being responsible for the Stock Management, I helped conceive an organisation plan that enabled employees to access all products easily, thus facilitating sales and improving the general system in place. This avoided delays in finding the wine that the client requested, misplacing deliveries or losing items.
+At Makers Academy, during our 2 weeks final project, we organised ourselves by doing standups, retros and having daily sprints (tasks given). I believe that to be a good Software developer, you must be organised, by planning a project before jumping to the code, testing all behaviours of it and maintaining a high code quality so it can be released with a high performance, estimated project requirements and without unexpected bugs. At Bar Douro, organisation was key as we kept stock of over 100 different types of wines. Being responsible for the Stock Management, I helped conceive an organisation plan that enabled employees to access all products easily, thus facilitating sales and improving the general system in place. This avoided delays in finding the wine that the client requested, misplacing deliveries or losing items.
  
 * Teamwork
  
-Coming from an international background, I had quickly realised how important it is to take cultural differences into account when dealing with colleagues or customers. As a Restaurant Assistant Manager, in La Petite Bretagne, it was my responsibility to give feedback to the employees so they could improve their work and strive towards the same goals as the company. I always made sure to bring empathy in these conversations so that it was based on trust, honesty and respect. This was crucial to keep a good work environment for everyone.
+During my time at Makers Academy, Pair Programming was applied as soon as we started and until we graduated from the course realising the importance of it. 
+Coming from an international background, I had quickly realised how important it is to take cultural differences into account when dealing with colleagues or customers. As a Restaurant Assistant Manager, it was my responsibility to give feedback to the employees so they could improve their work and strive towards the same goals as the company. I always made sure to bring empathy in these conversations so that it was based on trust, honesty and respect. This was crucial to keep a good work environment for everyone.
  
 ## Hobbies
 
