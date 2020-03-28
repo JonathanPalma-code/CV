@@ -10,14 +10,14 @@ From a very young age, I have been passionate about video games, and I grew trem
 
 I am now looking to move forward, into a new environment and secure a permanent position in a tech team.
 
-These are my solutions to [codewars](http://codewars.com) [code katas](https://en.wikipedia.org/wiki/Kata_(programming)). My profile in codewars can be found [here](https://www.codewars.com/users/Jonathan%20Palma/). Languages used here are (at the moment):
-
-* Ruby (mainly)
-* C#
-
 This is my Codewarrior Profile Badge, current status: 
 
 ![My Codewarrior Profile Badge](https://www.codewars.com/users/Jonathan%20Palma/badges/large)
+
+My profile in codewars can be found [here](https://www.codewars.com/users/Jonathan%20Palma/). Languages used here are (at the moment):
+
+* Ruby (mainly)
+* C#
 
 ## Projects:
  
