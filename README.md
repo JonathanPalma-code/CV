@@ -9,7 +9,7 @@ This is my Codewarrior Profile Badge, current status:
 
 ![My Codewarrior Profile Badge](https://www.codewars.com/users/Jonathan%20Palma/badges/large)
 
-My profile in codewars can be found [here](https://www.codewars.com/users/Jonathan%20Palma/). The language used here are (at the moment):
+My profile in codewars can be found [here](https://www.codewars.com/users/Jonathan%20Palma/). The language used is (at the moment):
 
 * Ruby
 
