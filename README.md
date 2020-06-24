@@ -14,13 +14,14 @@ My profile in codewars can be found [here](https://www.codewars.com/users/Jonath
 * Ruby
 
 ## Projects:
- 
-| Paladin's Path |    Acebook    |    Chess Game    | 
-| --------------- | --------------- | ---------------- |
-| ![ezgif com-video-to-gif](https://user-images.githubusercontent.com/55409351/76026579-f6121e80-5f26-11ea-9012-c5879f7efe57.gif) | ![ezgif com-gif-maker (2)](https://user-images.githubusercontent.com/55409351/76026271-56ed2700-5f26-11ea-95ba-5255bc11a821.gif) | ![ezgif com-crop (4)](https://user-images.githubusercontent.com/55409351/77004281-bc91d800-6956-11ea-841d-997f31cca78a.gif)
-| Final project at Makers Academy - An open-world battle game where the player can freely move around, encounter enemies in different environments throughout the world, and then battle using a dynamic targeting system with a combination of physical and ranged attacks. Timeframe: 2 weeks. Technology: [Unreal Engine 4](https://www.unrealengine.com/en-US/industry/games). |A Facebook Clone deployed at: [Acebook](http://acebook-irrelevant-pests.herokuapp.com) Timeframe: 2 weeks. Technology: Ruby on Rails. | A chess game played in the console app of .net Core. Timeframe: 10 days. Technology: C#. |
-|[GitHub](https://github.com/BenSheridanEdwards/Makers_Final_Project_Paladins_Path) |[GitHub](https://github.com/ffgi-es/acebook_irrelevant_pests) | [GitHub](https://github.com/JonathanPalma-code/Chess-Game) |
- 
+
+| Project Name                       | Demo                                    | Description                             | Github                                               |
+| ---------------------------------- | --------------------------------------- | --------------------------------------- | ---------------------------------------------------- |
+| IHSHG-Project                      | ![ezgif com-video-to-gif (1)](https://user-images.githubusercontent.com/55409351/85565344-f5f97400-b626-11ea-8555-f40660bb81f9.gif) | A website that gives the possibility for any person to report a monument vicinity that is damaged, in bad condition or scheduled for destruction. Technology: Javascript, React, Redux, HTML, CSS and Firebase. - the website is still in process, however if you want to know more of it, you may find it on my GitHub. | [GitHub](https://github.com/JonathanPalma-code/IHSHG-Project) |
+| Paladin's Path                     | ![ezgif com-video-to-gif](https://user-images.githubusercontent.com/55409351/76026579-f6121e80-5f26-11ea-9012-c5879f7efe57.gif) | Final project at Makers Academy - An open-world battle game where the player can freely move around, encounter enemies in different environments throughout the world, and then battle using a dynamic targeting system with a combination of physical and ranged attacks. Timeframe: 2 weeks. Technology: [Unreal Engine 4](https://www.unrealengine.com/en-US/industry/games). |  [GitHub](https://github.com/BenSheridanEdwards/Makers_Final_Project_Paladins_Path) |
+| Acebook                            | ![ezgif com-gif-maker (2)](https://user-images.githubusercontent.com/55409351/76026271-56ed2700-5f26-11ea-95ba-5255bc11a821.gif) | A Facebook Clone deployed at: [Acebook](http://acebook-irrelevant-pests.herokuapp.com) Timeframe: 2 weeks. Technology: Ruby on Rails. |  [GitHub](https://github.com/ffgi-es/acebook_irrelevant_pests) |
+| Chess Game                         | ![ezgif com-crop (4)](https://user-images.githubusercontent.com/55409351/77004281-bc91d800-6956-11ea-841d-997f31cca78a.gif) | A chess game played in the console app of .net Core. Timeframe: 10 days. Technology: C#. | [GitHub](https://github.com/JonathanPalma-code/Chess-Game) |
+
 ## Education
  
 #### Maker's Academy (October 2019 - February 2020) 
