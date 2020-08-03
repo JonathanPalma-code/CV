@@ -3,7 +3,8 @@
 
 My name is Jonathan, I am a passionate software engineer graduated from Makers Academy, a highly selective 16 weeks coding bootcamp. 
 
-From a very young age, I’ve been passionate about video-games and applications. When I asked myself the teenager’s most important question, what do I want to become? The answer came to me as obvious - a software developer! I’m looking for a role where I can use my problem solving skills and passion for technology to build software. I have a creative mind and I like reinventing the world through innovation, with a strong will for improvement, not only for myself, but for everything I touch. 
+From a very young age, I’ve been passionate about video-games and applications. When I asked myself the teenager’s most important question, what do I want to become? The answer came to me as obvious - a software developer! I’m looking for a role where I can use my problem solving skills and passion for web design and for technology to build software, for my own self development as a software dev. 
+I have a creative mind and I like reinventing the world through innovation, with a strong will for improvement, not only for myself, but for everything I touch. 
 
 This is my Codewarrior Profile Badge, current status: 
 
